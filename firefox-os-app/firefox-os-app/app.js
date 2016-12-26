@@ -1,1 +1,1 @@
-window.location = 'http://localserver.vieraconnect.com';
+window.location = 'https://yourappaddress.com';

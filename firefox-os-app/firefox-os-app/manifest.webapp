@@ -1,6 +1,6 @@
 {
-  "name": "Yvoñae",
-  "description": "Youdescription",
+  "name": "Your App Name",
+  "description": "Your app description",
   "launch_path": "/index.html",
   "icons": {
     "16": "/icons/icon16x16.png",
@@ -9,7 +9,7 @@
     "128": "/icons/icon128x128.png"
   },
   "developer": {
-    "name": "Yourname",
+    "name": "Your name",
     "url": "http://example.com"
   }
 }
